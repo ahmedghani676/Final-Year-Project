@@ -1,0 +1,6 @@
+Database Connectivity Troubleshooting Documentation:
+
+1. Can't connect to Amazon RDS DB instance: https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Troubleshooting.html#CHAP_Troubleshooting.Connecting
+2. Control traffic to resources using security groups: https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html
+3. Connecting to a DB instance running the MySQL database engine: https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ConnectToInstance.html
+4. Connecting to an Amazon RDS DB instance: https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_CommonTasks.Connect.html
